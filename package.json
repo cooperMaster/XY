@@ -1,0 +1,19 @@
+{
+  "name": "XY",
+  "version": "1.0.0",
+  "description": "courses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"build":"loppo --site \" NS \" --theme hym"
+  },
+  "keywords": [
+    "XY"
+  ],
+  "author": "ming",
+  "license": "ISC",
+  "dependencies": {
+    "loppo": "latest",
+    "loppo-theme-hym": "latest"
+  }
+}
